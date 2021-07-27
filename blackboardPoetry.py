@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[21]:
-
 
 import copy
 import nltk
@@ -207,22 +202,4 @@ def makeTwoWordsRhyme(lines):
 
 bb = Blackboard()
 bb.main()
-
-
-# In[75]:
-
-
-nltk.help.upenn_tagset()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
